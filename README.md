@@ -4,9 +4,9 @@
 zdjecie orginalne:
 ![1orgin](https://user-images.githubusercontent.com/67105405/213574846-ce7a2b46-f85a-4b94-940c-582260efca72.jpg)
 
-Przygotowaniu scanu:
--normalizacji
--nałozenia filtru gamma
+Przygotowaniu scanu:\\
+-normalizacji \\
+-nałozenia filtru gamma \\
 -odjęciu kolorow
 -pozbyciu się cieni z zdjęcia, odjęciu z zdjecia rozswietlonego rozmazanego zdjecia
 -przepuszczenie zdjęcia przez threshold

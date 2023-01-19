@@ -46,25 +46,31 @@ Wycinanie pięciolini w oparciu o znalezione linie:y<br />
 <br />
 Wycinanie pojedynczych nut:<br />
 - stworzenie obrazu binarnego<br />
-- znalezienie lini z uzyciem erozji i rozrostu<br />
-- odjecie lini z obrazka<br />
-- powiekszenie nut z uzyciem erozji<br />
-- usuniecie z obrazu binarnego powiekszonych nut<br />
-- porownanie obrazu binarnego z obrazem zawierajacym puste przestrzenie po usunieciu nut<br />
+
+
+
+
+
 <img src="https://user-images.githubusercontent.com/67105405/213584626-c8107c42-3ad8-4626-baab-75cb6163a726.jpg" width ="400" height="80"/>
+- znalezienie lini z uzyciem erozji i rozrostu<br />
 <img src="https://user-images.githubusercontent.com/67105405/213584654-b5f89929-ac90-4188-a331-ed092dad40f1.jpg" width ="400" height="80"/>
+- odjecie lini z obrazka<br />
 <img src="https://user-images.githubusercontent.com/67105405/213584713-3bbc648f-f277-4167-b020-b1f0542b859a.jpg" width ="400" height="80"/>
+- powiekszenie nut z uzyciem erozji<br />
 <img src="https://user-images.githubusercontent.com/67105405/213584934-4751e7f1-9a33-480f-b8f5-974c416f7c4c.jpg" width ="400" height="80"/>
+- usuniecie z obrazu binarnego powiekszonych nut<br />
 <img src="https://user-images.githubusercontent.com/67105405/213584992-0d4537c5-3eec-42a0-8f2d-743f8256c182.jpg" width ="400" height="80"/>
+- porownanie obrazu binarnego z obrazem zawierajacym puste przestrzenie po usunieciu nut<br />
 <img src="https://user-images.githubusercontent.com/67105405/213585029-e7f8af92-0826-4568-ac8a-0541b7b9de7a.jpg" width ="400" height="80"/>
 <img src="https://user-images.githubusercontent.com/67105405/213585056-2f2fc2fd-a7bd-48d7-a0d6-89c3faec0341.jpg" width ="400" height="80"/>
 <br />
 <br />
-Detekcja nut<br />
-Odniesienie do pozycji na pieciolini<br />
-predykcja znaku w oparciu o wysokosc i odleglosc do kolejnego znaku<br />
+Wynik koncowy<br />
+-Detekcja nut<br />
 <img src="https://user-images.githubusercontent.com/67105405/213585102-9498e973-d5a8-4cda-9b74-decac80ee00f.jpg" width ="400" height="80"/>
+-Odniesienie do pozycji na pieciolini<br />
 <img src="https://user-images.githubusercontent.com/67105405/213585164-551b0932-15b0-49b6-a7af-b1440b8df57c.jpg" width ="400" height="80"/>
+-predykcja znaku w oparciu o wysokosc i odleglosc do kolejnego znaku<br />
 <img src="https://user-images.githubusercontent.com/67105405/213585174-3199809d-0d66-40ee-bcb2-15f57c64b803.jpg" width ="400" height="80"/>
 
 

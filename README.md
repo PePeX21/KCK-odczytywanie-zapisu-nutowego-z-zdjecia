@@ -2,7 +2,7 @@
 ## Proces odczytywania informacji z zdjecia
 
 zdjecie orginalne:
-<img src="https://user-images.githubusercontent.com/67105405/213574846-ce7a2b46-f85a-4b94-940c-582260efca72.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/67105405/213574846-ce7a2b46-f85a-4b94-940c-582260efca72.jpg" width="400" height="600"/>
 <br />
 Przygotowaniu scanu: <br />
 -normalizacji <br />
@@ -10,7 +10,7 @@ Przygotowaniu scanu: <br />
 -odjęciu kolorow <br />
 -pozbyciu się cieni z zdjęcia, odjęciu z zdjecia rozswietlonego rozmazanego zdjecia <br />
 -przepuszczenie zdjęcia przez threshold
-![11scan](https://user-images.githubusercontent.com/67105405/213577686-a22829fe-57a0-45ea-b0d8-8873f5fac4c2.jpg =250x250)
+![11scan](https://user-images.githubusercontent.com/67105405/213577686-a22829fe-57a0-45ea-b0d8-8873f5fac4c2.jpg)
 <br />
 Poszukiwanie krawędzi kartki:<br />
 -normalizacji<br />

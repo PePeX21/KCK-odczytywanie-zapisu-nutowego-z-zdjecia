@@ -23,18 +23,18 @@ Przygotowaniu scanu: <br />
 <br />
 Nałożenie obrysowania wycięcie obrazu<br />
 <img src="https://user-images.githubusercontent.com/67105405/213579215-e215d73e-a83a-4db0-ba2e-d343efbc3832.jpg" width ="400" height="600"/>
-![13straightening](https://user-images.githubusercontent.com/67105405/213583151-c2af7284-fcce-41d1-a19a-41a0a2bcd1cf.jpg)
+<img src="https://user-images.githubusercontent.com/67105405/213583151-c2af7284-fcce-41d1-a19a-41a0a2bcd1cf.jpg" width ="400" height="600"/>
 <br />
 Usuniecie znakow zapisu nutowego z uzyciem erozji oraz poszukiwanie lini z uzyciem filtru canny<br />
 <img src="https://user-images.githubusercontent.com/67105405/213583643-286b6b98-8ced-491a-8088-ccf7ceb9acd2.jpg" width ="400" height="600"/>
 <img src="https://user-images.githubusercontent.com/67105405/213583659-a99aa1d8-1022-497f-81ed-2999d79316b3.jpg" width ="400" height="600"/>
 <br />
 Wycinanie pięciolini w oparciu o znalezione linie
-![17cutLines1](https://user-images.githubusercontent.com/67105405/213583881-c3b47ab9-3835-446f-bbec-4e6bf4b044cb.jpg)
-![17cutLines2](https://user-images.githubusercontent.com/67105405/213583884-d4b738ee-3cb4-4bbb-968b-796670023f09.jpg)
-![17cutLines3](https://user-images.githubusercontent.com/67105405/213583888-8cfef7cd-998b-437d-8281-efd149404fe8.jpg)
-![17cutLines4](https://user-images.githubusercontent.com/67105405/213583890-b8d2c129-a1e1-426a-9b4f-08a9672b96f3.jpg)
-![17cutLines5](https://user-images.githubusercontent.com/67105405/213583893-d7b7f589-1509-4269-80ac-fc8bdb7d65af.jpg)
-![17cutLines6](https://user-images.githubusercontent.com/67105405/213583896-18bc3f9b-2bb1-420d-a5e8-afa57e1f2f26.jpg)
-![17cutLines7](https://user-images.githubusercontent.com/67105405/213583898-3ba04882-47b3-48c5-b135-8e572fee6be1.jpg)
+<img src="https://user-images.githubusercontent.com/67105405/213583881-c3b47ab9-3835-446f-bbec-4e6bf4b044cb.jpg" width ="400" height="80"/>
+<img src="https://user-images.githubusercontent.com/67105405/213583884-d4b738ee-3cb4-4bbb-968b-796670023f09.jpg)
+<img src="https://user-images.githubusercontent.com/67105405/213583888-8cfef7cd-998b-437d-8281-efd149404fe8.jpg)
+<img src="https://user-images.githubusercontent.com/67105405/213583890-b8d2c129-a1e1-426a-9b4f-08a9672b96f3.jpg)
+<img src="https://user-images.githubusercontent.com/67105405/213583893-d7b7f589-1509-4269-80ac-fc8bdb7d65af.jpg)
+<img src="https://user-images.githubusercontent.com/67105405/213583896-18bc3f9b-2bb1-420d-a5e8-afa57e1f2f26.jpg)
+<img src="https://user-images.githubusercontent.com/67105405/213583898-3ba04882-47b3-48c5-b135-8e572fee6be1.jpg)
 

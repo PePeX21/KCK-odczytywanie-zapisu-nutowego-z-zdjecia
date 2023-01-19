@@ -24,12 +24,12 @@ Przygotowaniu scanu: <br />
 <img src="https://user-images.githubusercontent.com/67105405/213579189-56d0132f-9ecd-4a8b-822a-2daf064df6b7.jpg" width ="400" height="600"/>
 <br />
 <br />
-Nałożenie obrysowania wycięcie obrazu<br />
+Nałożenie obrysowania wycięcie obrazu:<br />
 <img src="https://user-images.githubusercontent.com/67105405/213579215-e215d73e-a83a-4db0-ba2e-d343efbc3832.jpg" width ="400" height="600"/>
 <img src="https://user-images.githubusercontent.com/67105405/213583151-c2af7284-fcce-41d1-a19a-41a0a2bcd1cf.jpg" width ="400" height="600"/>
 <br />
 <br />
-Usuniecie znakow zapisu nutowego z uzyciem erozji oraz poszukiwanie lini z uzyciem filtru canny<br />
+Usuniecie znakow zapisu nutowego z uzyciem erozji oraz poszukiwanie lini z uzyciem filtru canny:<br />
 <img src="https://user-images.githubusercontent.com/67105405/213583643-286b6b98-8ced-491a-8088-ccf7ceb9acd2.jpg" width ="400" height="600"/>
 <img src="https://user-images.githubusercontent.com/67105405/213583659-a99aa1d8-1022-497f-81ed-2999d79316b3.jpg" width ="400" height="600"/>
 <br />
@@ -46,11 +46,6 @@ Wycinanie pięciolini w oparciu o znalezione linie:y<br />
 <br />
 Wycinanie pojedynczych nut:<br />
 - stworzenie obrazu binarnego<br />
-
-
-
-
-
 <img src="https://user-images.githubusercontent.com/67105405/213584626-c8107c42-3ad8-4626-baab-75cb6163a726.jpg" width ="400" height="80"/>
 - znalezienie lini z uzyciem erozji i rozrostu<br />
 <img src="https://user-images.githubusercontent.com/67105405/213584654-b5f89929-ac90-4188-a331-ed092dad40f1.jpg" width ="400" height="80"/>

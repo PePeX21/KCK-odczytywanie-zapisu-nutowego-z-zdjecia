@@ -10,7 +10,7 @@ Przygotowaniu scanu: <br />
 -odjęciu kolorow <br />
 -pozbyciu się cieni z zdjęcia, odjęciu z zdjecia rozswietlonego rozmazanego zdjecia <br />
 -przepuszczenie zdjęcia przez threshold
-![11scan](https://user-images.githubusercontent.com/67105405/213577686-a22829fe-57a0-45ea-b0d8-8873f5fac4c2.jpg | width=200)
+![11scan](https://user-images.githubusercontent.com/67105405/213577686-a22829fe-57a0-45ea-b0d8-8873f5fac4c2.jpg =250x250)
 <br />
 Poszukiwanie krawędzi kartki:<br />
 -normalizacji<br />

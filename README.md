@@ -4,11 +4,11 @@
 zdjecie orginalne:
 ![1orgin](https://user-images.githubusercontent.com/67105405/213574846-ce7a2b46-f85a-4b94-940c-582260efca72.jpg)
 
-Przygotowaniu scanu:\\
--normalizacji \\
--nałozenia filtru gamma \\
--odjęciu kolorow
--pozbyciu się cieni z zdjęcia, odjęciu z zdjecia rozswietlonego rozmazanego zdjecia
+Przygotowaniu scanu: <br />
+-normalizacji <br />
+-nałozenia filtru gamma <br />
+-odjęciu kolorow <br />
+-pozbyciu się cieni z zdjęcia, odjęciu z zdjecia rozswietlonego rozmazanego zdjecia <br />
 -przepuszczenie zdjęcia przez threshold
 ![11scan](https://user-images.githubusercontent.com/67105405/213577686-a22829fe-57a0-45ea-b0d8-8873f5fac4c2.jpg)
 

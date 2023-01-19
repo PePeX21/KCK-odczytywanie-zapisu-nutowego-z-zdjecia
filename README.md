@@ -2,7 +2,7 @@
 ## Proces odczytywania informacji z zdjecia
 
 zdjecie orginalne:
-![1orgin](https://user-images.githubusercontent.com/67105405/213574846-ce7a2b46-f85a-4b94-940c-582260efca72.jpg | width=100)
+![](https://user-images.githubusercontent.com/67105405/213574846-ce7a2b46-f85a-4b94-940c-582260efca72.jpg | width=100)
 <br />
 Przygotowaniu scanu: <br />
 -normalizacji <br />

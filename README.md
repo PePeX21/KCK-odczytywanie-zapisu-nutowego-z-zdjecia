@@ -34,7 +34,7 @@ Usuniecie znakow zapisu nutowego z uzyciem erozji oraz poszukiwanie lini z uzyci
 <img src="https://user-images.githubusercontent.com/67105405/213583659-a99aa1d8-1022-497f-81ed-2999d79316b3.jpg" width ="400" height="600"/>
 <br />
 <br />
-Wycinanie pięciolini w oparciu o znalezione linie:y<br />
+Wycinanie pięciolini w oparciu o znalezione linie:<br />
 <img src="https://user-images.githubusercontent.com/67105405/213583881-c3b47ab9-3835-446f-bbec-4e6bf4b044cb.jpg" width ="400" height="80"/>
 <img src="https://user-images.githubusercontent.com/67105405/213583884-d4b738ee-3cb4-4bbb-968b-796670023f09.jpg" width ="400" height="80"/>
 <img src="https://user-images.githubusercontent.com/67105405/213583888-8cfef7cd-998b-437d-8281-efd149404fe8.jpg" width ="400" height="80"/>
@@ -44,6 +44,7 @@ Wycinanie pięciolini w oparciu o znalezione linie:y<br />
 <img src="https://user-images.githubusercontent.com/67105405/213583898-3ba04882-47b3-48c5-b135-8e572fee6be1.jpg" width ="400" height="80"/>
 <br />
 <br />
+Dalsze przetwarzanie jest zaprezentowane dla 1 lini.<br />
 Wycinanie pojedynczych nut:<br />
 - stworzenie obrazu binarnego<br />
 <img src="https://user-images.githubusercontent.com/67105405/213584626-c8107c42-3ad8-4626-baab-75cb6163a726.jpg" width ="400" height="80"/>
